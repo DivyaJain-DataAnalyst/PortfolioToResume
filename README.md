@@ -4,10 +4,15 @@
 
 - <a href="#overview"> Overview </a>
 - <a href="#project-insights"> Project Insights </a>
-- <a href="#demo"> Live Demo </a>
 - <a href="#features">Features</a>
-- <a href="#technology-stack"> Technology Stack </a>
-- <a href="#setup-instructions"> Setup Instructions </a>
+- <a href="#quick-start"> Quick Start </a>
+- <a href="#how-to-use"> How to use</a>
+- <a href="#template-features">Template Features</a>
+- <a href="#technical-details">Technical Details</a>
+- <a href="#testing">Testing</a>
+- <a href="#project-structure">Project Structure</a>
+- <a href="#key-improvements"> Key Improvements</a>
+- <a href="#use-cases">Use Cases</a>
 - <a href="#success-stories">Success Stories</a>
 - <a href="#acknowledgments">Acknowledgments</a>
 - <a href="#contact">Contact</a>
@@ -487,7 +492,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/eccentriccoder01"><img src="https://avatars.githubusercontent.com/u/121952662?v=4" height="140px" width="140px" alt="Sagnik Chakraborty"></a><br><sub><b>Sagnik Chakraborty</b><br><a href="https://www.linkedin.com/in/eccentricexplorer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a>
+<a href="https://github.com/Divyansh8843"><img src="https://avatars.githubusercontent.com/u/178125610?v=4" height="140px" width="140px" alt="Divyansh Agrawal"></a><br><sub><b>Divyansh Agrawal</b><br><a href="https://www.linkedin.com/in/divyansh-agrawal-4556a0299/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a>
 </sub>
 </td>
 </tr>
@@ -504,7 +509,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="center"> 👨‍💻 Built with ❤️ by PortfolioToResume Team</h3>
-<h4 align="center"> ❤️ Sagnik Chakraborty and Contributors ❤️ </h4>
+<h4 align="center"> ❤️ Divyansh Agrawal and Contributors ❤️ </h4>
 <p align="center">
   <a href="https://github.com/PortToResume/PortfolioToResume/issues">Open an Issue</a> | <a href="https://github.com/PortToResume/PortfolioToResume">🌟 Star on GitHub</a> </p>
 
