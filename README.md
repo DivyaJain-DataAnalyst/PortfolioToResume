@@ -5,11 +5,10 @@
 - <a href="#overview"> Overview </a>
 - <a href="#project-insights"> Project Insights </a>
 - <a href="#demo"> Live Demo </a>
-- <a href="#screenshots"> Screenshots </a>
-- <a href="#core-features">Core Features</a>
+- <a href="#features">Features</a>
 - <a href="#technology-stack"> Technology Stack </a>
 - <a href="#setup-instructions"> Setup Instructions </a>
-- <a href="#roadmap-enhancements">  Roadmap & Future Enhancements </a>
+- <a href="#success-stories">Success Stories</a>
 - <a href="#acknowledgments">Acknowledgments</a>
 - <a href="#contact">Contact</a>
 - <a href="#how-to-contribute">How to Contribute</a>
@@ -88,8 +87,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## ✨ Features
+<h2 id="features">✨ Features</h2>
 
 ### 🎯 Core Functionality
 
@@ -110,8 +108,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 🚀 Quick Start
+<h2 id="quick-start">🚀 Quick Start</h2>
 
 ### Prerequisites
 
@@ -165,8 +162,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 📋 How to Use
+<h2 id="how-to-use">📋 How to Use</h2>
 
 ### 1. Portfolio Conversion
 
@@ -193,8 +189,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 🎨 Template Features
+<h2 id="template-features">🎨 Template Features</h2>
 
 ### Professional Black Design
 
@@ -213,8 +208,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 🔧 Technical Details
+<h2 id="technical-details">🔧 Technical Details</h2>
 
 ### Backend (Flask)
 
@@ -239,8 +233,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 🧪 Testing
+<h2 id="testing">🧪 Testing</h2>
 
 Run the test suite to verify functionality:
 
@@ -257,8 +250,7 @@ This will test:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 📁 Project Structure
+<h2 id="project-structure">📁 Project Structure</h2>
 
 ```bash
 PortToResume/
@@ -275,8 +267,7 @@ PortToResume/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 🔍 Key Improvements
+<h2 id="key-improvements">🔍 Key Improvements</h2>
 
 ### ✅ Fixed Issues
 
@@ -296,8 +287,7 @@ PortToResume/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 🎯 Use Cases
+<h2 id="use-cases">🎯 Use Cases</h2>
 
 - **Job Applications**: Create professional resumes for job applications
 - **Portfolio Conversion**: Convert portfolio websites to resume format
@@ -306,8 +296,7 @@ PortToResume/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 🤝 Contributing
+<h2 id="overview">🤝 Contributing</h2>
 
 1. Fork the repository
 2. Create a feature branch
@@ -317,8 +306,7 @@ PortToResume/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 🆘 Support
+<h2 id="support">🆘 Support</h2>
 
 If you encounter any issues:
 
@@ -329,8 +317,7 @@ If you encounter any issues:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="overview">🔍 Overview</h2>
-## 🎉 Success Stories
+<h2 id="success-stories">🎉 Success Stories</h2>
 
 Users have successfully:
 
@@ -421,13 +408,13 @@ We welcome contributions from developers of all skill levels! Here are some ways
 
 <h2 id="code-of-conduct">📜 Code of Conduct</h2>
 
-Please refer to the [`Code of Conduct`](https://github.com/eccentriccoder01/Venturalink/blob/main/CODE_OF_CONDUCT.md) for details on contributing guidelines and community standards.
+Please refer to the [`Code of Conduct`](https://github.com/PortToResume/PortfolioToResume/blob/main/CODE_OF_CONDUCT.md) for details on contributing guidelines and community standards.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2 id="contribution-guidelines">🤝👤 Contribution Guidelines</h2>
 
-We love our contributors! If you'd like to help, please check out our [`CONTRIBUTE.md`](https://github.com/eccentriccoder01/Venturalink/blob/main/CONTRIBUTING.md) file for guidelines.
+We love our contributors! If you'd like to help, please check out our [`CONTRIBUTING.md`](https://github.com/PortToResume/PortfolioToResume/blob/main/CONTRIBUTING.md) file for guidelines.
 
 >Thank you once again to all our contributors who has contributed to **PortfolioToResume!** Your efforts are truly appreciated. 💖👏
 
@@ -472,7 +459,7 @@ Feel free to open issues or discussions if you have any feedback, feature sugges
 
 <h2 id="license">📄 License</h2>
 
-This project is licensed under the MIT License - see the [`License`](https://github.com/eccentriccoder01/Venturalink/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [`License`](https://github.com/PortToResume/PortfolioToResume/blob/main/LICENSE.md) file for details.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
